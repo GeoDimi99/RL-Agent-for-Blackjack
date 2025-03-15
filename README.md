@@ -91,10 +91,4 @@ To run the project, follow these steps:
 
 4. After training, the results will be saved in the `results/` directory, including plots of the episode rewards, episode lengths, and training error.
 
-## Future Work
 
-- **Hyperparameter Tuning**: Experiment with different hyperparameters (e.g., learning rate, batch size) to improve the agent's performance.
-- **Advanced Architectures**: Implement more advanced neural network architectures, such as Double DQN or Dueling DQN, to enhance the agent's learning capabilities.
-- **Real-time Visualization**: Add real-time visualization of the agent's gameplay to better understand its decision-making process.
-
-## 
